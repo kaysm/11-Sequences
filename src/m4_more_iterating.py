@@ -34,9 +34,9 @@ import math
 
 def main():
     """ Calls the   TEST   functions in this module. """
-    # run_test_sum_sequence()
-    # run_test_count_items_bigger_than()
-    # run_test_count_positive_sines()
+    run_test_sum_sequence()
+    run_test_count_items_bigger_than()
+    run_test_count_positive_sines()
     run_test_sum_first_n()
 
 
